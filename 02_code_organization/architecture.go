@@ -1,5 +1,6 @@
 package architecture
 
+//	User is how package architecture stores User information
 type User struct {
 	First string
 }
